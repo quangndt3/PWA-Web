@@ -2,6 +2,7 @@
 # PWA-Web
 =======
 # React + Vite
-npm run build
-npm run preview
+# Câu lệnh chạy project
+# npm run build
+# npm run preview
 
