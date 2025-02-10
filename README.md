@@ -3,5 +3,5 @@
 =======
 # React + Vite
 npm run build
-npm run dev
+npm run preview
 
