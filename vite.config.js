@@ -88,5 +88,4 @@
         },
       }),
     ],
-    base: "https://github.com/quangndt3/PWA-Web.git", 
   });

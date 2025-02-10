@@ -42,4 +42,4 @@ const Home = ()=>{
     )
 }
 export default Home
-// json-server --watch E:/projects/PWA/my-react-app/data.json --port 5000
+// json-server --watch E:/projects/PWA/my-react-app/public/data.json --port 5000
